@@ -1,5 +1,8 @@
 # Flow
 
+This Isabelle session was developed in the course of a Master's thesis
+(see [https://github.com/bpoettinger/msc](https://github.com/bpoettinger/msc)).
+
 ## Session
 
 ### Dependencies
